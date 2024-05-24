@@ -30,17 +30,17 @@ We begin by loading the dataset and performing exploratory data analysis (EDA) t
 
 We train several machine learning models on the dataset, including:
 
-- ####Linear Regression
+####Linear Regression<br>
   ![Histogram](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/LR-Histogram.png)
   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/LR-Visualization.png)
   ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/LR-Check_residual.png)
-- ####Random Forest Regressor
+####Random Forest Regressor<br>
   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/RF-Visualization.png)
   ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/RF-check_residual.png)
-- ####XGBoost Regressor
+####XGBoost Regressor<br>
   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/SVM-visualization.png)
   ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/SVM-check_residual.png)
-- ####Support Vector Machines (SVM) Regressor
+####Support Vector Machines (SVM) Regressor<br>
   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/XGBR-Visualization.png)
   ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/XGBR-check_residual.png)
 
