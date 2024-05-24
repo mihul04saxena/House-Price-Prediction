@@ -30,19 +30,19 @@ We begin by loading the dataset and performing exploratory data analysis (EDA) t
 
 We train several machine learning models on the dataset, including:
 
-- Linear Regression
+- ####Linear Regression
   ![Histogram](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/LR-Histogram.png)
   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/LR-Visualization.png)
   ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/LR-Check_residual.png)
-- Random Forest Regressor
+- ####Random Forest Regressor
   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/RF-Visualization.png)
   ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/RF-check_residual.png)
-- XGBoost Regressor
-   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/SVM-visualization.png)
+- ####XGBoost Regressor
+  ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/SVM-visualization.png)
   ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/SVM-check_residual.png)
-- Support Vector Machines (SVM) Regressor
-   ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/XGBR-Visualization.png)
-  ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/XGBR-Check_residual.png)
+- ####Support Vector Machines (SVM) Regressor
+  ![Visualization](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/XGBR-Visualization.png)
+  ![Check residual](https://github.com/mihul04saxena/House-Price-Prediction/blob/main/images/XGBR-check_residual.png)
 
 For each model, we split the dataset into training and testing sets, train the model on the training data, and then evaluate its performance on the testing data using metrics like R-squared score, mean absolute error (MAE), mean squared error (MSE), and root mean squared error (RMSE).
 
